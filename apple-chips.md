@@ -3,9 +3,9 @@ Apple Chips
 
 Ingredients
 -----------
-1 apple (any kind will do, I think)
-1 tsp suger
-1 tsp ground cinnamon
+* 1 apple (any kind will do, I think)
+* 1 tsp suger
+* 1 tsp ground cinnamon
 
 Directions
 ----------
