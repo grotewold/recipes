@@ -8,5 +8,6 @@ Recipes for meals enjoyed by our family. No more, no less.
 [Apple Slaw Pork Chops](apple-slaw.md)  
 ["Norwegian Pancakes" Crepes](norwegian-pancakes.md)  
 [Pizza Muffins](pizza-muffins.md)  
-[Taco Pie](taco-pie.md)  
+[Soft Corn Tortillas](soft-corn-tortillas.md)  
+[Taco Pie](taco-pie.md)
   
