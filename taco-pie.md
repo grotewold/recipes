@@ -18,3 +18,6 @@ Ingredients
 Directions
 ----------
 Preheat oven to 350 degrees. In a medium sauce pan, melt butter. Add milk and 2 tbsp taco seasoning. Remove from heat and add potato flakes until completely mixed. Press mixture into the bottom of a 10-inch pan. Bake for 7-10 minutes until it just BARELY turns golden brown. In a medium skillet, cook beef and onions until beef is browned and cooked through. Drain. Add Salsa and remaining taco seasoning. Cook until bubbly. Pour into crust. Bake for 15 minutes, or until crust is golden brown. Let cool for 5 minutes. Top with cheese, lettuce, and tomatoes. Cut and serve with sour cream, if that's what you like.
+
+
+Recipe found [here](http://www.justapinch.com/recipes/real-taco-pie-2.html).
