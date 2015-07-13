@@ -10,6 +10,7 @@ Ingredients
 * 1 teaspoon vanilla
 * 1 teaspoon baking soda
 * 1/2 teaspoon nutmeg
+* pinch of salt
 * pinch of ground cloves
 * 1 1/2 cups flour
 * _optional_: 1 tablespoon bourbon
