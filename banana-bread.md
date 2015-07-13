@@ -8,6 +8,7 @@ Ingredients
 * 3/4 to 1 cup light brown sugar
 * 1 egg, beaten
 * 1 teaspoon vanilla
+* 1 teaspoon baking soda
 * 1/2 teaspoon nutmeg
 * pinch of ground cloves
 * 1 1/2 cups flour
