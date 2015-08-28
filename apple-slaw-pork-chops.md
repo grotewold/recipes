@@ -19,7 +19,13 @@ Ingredients
 
 Directions
 ----------
-In a large bowl, toss the apple with the juice of the lemon. Add the cabbage and scallions. Divide among 4 plates. Season the pork chops with grill seasoning. In a large nonstick skillet, heat the olive oil over medium-high heat. Add the chops and cook, turning once, until browned, 8 minutes. Place on top of the apple slaw. Add the chicken stock, mustard, honey, vinegar and thyme to the skillet and bring to a boil. Cook until reduced, about 1 minute; season with salt and pepper. Pour the gravy over the pork chops.
+In a large bowl, toss the apple with the juice of the lemon. Add the cabbage
+and scallions. Divide among 4 plates. Season the pork chops with grill
+seasoning. In a large nonstick skillet, heat the olive oil over medium-high
+heat. Add the chops and cook, turning once, until browned, 8 minutes. Place on
+top of the apple slaw. Add the chicken stock, mustard, honey, vinegar and thyme
+to the skillet and bring to a boil. Cook until reduced, about 1 minute; season
+with salt and pepper. Pour the gravy over the pork chops.
 
 
 Recipe found [here](http://www.rachaelraymag.com/recipes/rachael-ray-magazine-recipe-search/rachael-ray-30-minute-meals/pork-chops-with-honey-mustard-gravy-and-apple-slaw).
