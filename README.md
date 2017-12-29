@@ -4,6 +4,7 @@ Recipes for meals enjoyed by our family. No more, no less.
 
 ![chef](chef.gif?raw=true, "Swedish Chef")
 
+[Almond Roca](almond-roca.md)   
 [Apple Chips](apple-chips.md)  
 [Apple Slaw Pork Chops](apple-slaw.md)  
 [Banana Bread](banana-bread.md)  
