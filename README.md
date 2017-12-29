@@ -7,7 +7,8 @@ Recipes for meals enjoyed by our family. No more, no less.
 [Apple Chips](apple-chips.md)  
 [Apple Slaw Pork Chops](apple-slaw.md)  
 [Banana Bread](banana-bread.md)  
-[Chicken Salad](chicken-salad.md)  
+[Cheesy Potatoes](cheesy-potatoes.md)  
+[Chicken Salad](chicken-salad.md)  
 ["Norwegian Pancakes" Crepes](norwegian-pancakes.md)  
 [Pizza Muffins](pizza-muffins.md)  
 [Snicker Salad](snicker-salad.md)  
